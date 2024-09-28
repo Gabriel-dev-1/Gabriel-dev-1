@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello World! 👋
 
 <!--
-**Gabriel-dev-1/Gabriel-dev-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Summary
+**My name is Gabriel and I am majoring in Systems Analysis and Development, with experience in developing web applications, 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+My skills
+Languages: Java, HTML, CSS, JavaScript.
+Technologies/Frameworks: Spring Boot, Maven,
+Databases: MySQL.
+Development environments/IDEs: IntelliJ IDEA, Visual Studio Code, Git.
+Platforms: Windows.
+Ready to learn and grow in the market.
+Still looking for the first opportunity in the area.
 -->
